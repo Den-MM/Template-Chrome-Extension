@@ -1,4 +1,4 @@
-#Version
+# Version
 Versions of all used tools and libs are based on Jan/2025
 
 # React + TypeScript + Vite
