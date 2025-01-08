@@ -1,0 +1,19 @@
+body {
+  background-color: #242424;
+  place-items: center;
+  height: 100%;
+}
+
+[id = "Popup Visible Area"] {
+  border-color: white;
+  border-style: dashed;
+  border-width: 1px;
+  width: 500px;
+  height: 400px;
+}
+
+.btn, .alert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
