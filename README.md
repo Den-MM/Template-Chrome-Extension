@@ -1,3 +1,6 @@
+#Version
+Versions of all used tools and libs are based on Jan/2025
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
