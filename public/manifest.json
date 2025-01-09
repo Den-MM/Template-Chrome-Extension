@@ -23,16 +23,16 @@
     "tabs"
   ],
   "host_permissions": [
-    "https://chatgpt.com/*"
+    "ENTER_LINK"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://chatgpt.com/*"
+        "ENTER_LINK"
       ],
       "run_at": "document_idle",
       "js": [
-        "contentScriptGPT.js"
+        "contentScript.js"
       ]
     }
   ]
